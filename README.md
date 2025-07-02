@@ -1,9 +1,7 @@
-# Projeto-Analise-de-Dados
-Projeto de Conclusão do Módulo POO do Next 2025.1
+# Projeto de Conclusão do Módulo POO do Next 2025.1
 
 # Escopo do Projeto:
-
-### Projeto 8: Análise de Dados
+# Análise de Dados
 
 Crie um sistema que analise os dados contidos no arquivo [lista_clientes.csv](/aula12/lista_clientes.csv) e, usando POO, implemente as seguintes _features_:
 
